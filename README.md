@@ -1,8 +1,9 @@
 # Практическая работа №12 Оформление заказов
 # Кнопка "Мои заказы" на экране Профиля
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/a0ec557f-eb2c-4298-a05d-2a7fc1e45c81)
 # Оформление товара в корзине
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/9dfd592d-81de-42ce-9ff4-7300657b0d6a)
 # Все сделанные заказы
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/9176a66c-4140-4b30-9028-93e1c5dfa185)
+
 
